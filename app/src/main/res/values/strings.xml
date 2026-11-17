@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rice Logger</string>
+    <string name="app_subtitle">Field Genomics &amp; Promoter Logger</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_in_guest">Continue as Guest / Skip Sign-In</string>
+    <string name="sign_out">Sign out</string>
+    <string name="nav_new_sample">New Sample</string>
+    <string name="nav_analysis">Analysis</string>
+    <string name="nav_saved">Saved</string>
+    <string name="title_weather_details">Weather Details</string>
+    <string name="title_promoter_analysis">Promoter Analysis</string>
+    <string name="title_edit_sample">Edit Sample</string>
+    <string name="btn_capture_gps">Refresh GPS</string>
+    <string name="btn_fetch_weather">Fetch Weather</string>
+    <string name="btn_pick_fasta">Select FASTA File</string>
+    <string name="btn_save_sample">Save Field Sample</string>
+    <string name="error_gps_unavailable">GPS fix unavailable. Ensure location is enabled or enter coordinates manually.</string>
+    <string name="error_fasta_empty">No valid DNA FASTA records found in the selected file.</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396018201590",
+    "project_id": "gen-lang-client-0337037567",
+    "storage_bucket": "gen-lang-client-0337037567.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396018201590:android:037955230fc6b767984dd7",
+        "android_client_info": {
+          "package_name": "com.aistudio.ricelogger.kqmztx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396018201590-aqpi1368hv79tc5s1l2mlb1q2h7s58mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.ricelogger.kqmztx",
+            "certificate_hash": "e7e8bb7cd8c69054728ce97ac5d0eacd010f510d"
+          }
+        },
+        {
+          "client_id": "396018201590-qipopn38d6svj1a1s0g07s2hhbrcl3jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjnnAmNZ8c5H1lS4HWBbwFS_5jYek9AEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396018201590-qipopn38d6svj1a1s0g07s2hhbrcl3jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

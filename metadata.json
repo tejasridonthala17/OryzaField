@@ -1,0 +1,6 @@
+{
+  "name": "Rice Logger",
+  "description": "Field sample logger for rice researchers with GPS, Open-Meteo weather, FASTA promoter cis-element & SSR analysis via bioKT, and Room storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
